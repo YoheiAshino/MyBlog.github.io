@@ -2,14 +2,14 @@ body {
   background-color: #003333;
 }
 .title {
-  color: blue;
+  color: white;
   border: solid;
 }
 .profile {
-  color: green;
+  color: white;
   border: solid;
 }
 .menu {
-  color: red;
+  color: white;
   border: solid;
 }
