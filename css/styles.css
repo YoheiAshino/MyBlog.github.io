@@ -10,7 +10,9 @@ header {
 .profile {
   border: solid;
 }
-.menu {
+.menu{
+}
+.menu ul {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
