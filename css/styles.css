@@ -3,14 +3,14 @@ body {
 }
 .title {
   background-color: none;
-  color: #FFF;
+  color: blue;
   border: solid;
 }
 .profile {
-  color: #FFF;
+  color: red;
   border: solid;
 }
 .menu {
-  color: #FFF;
+  color: green;
   border: solid;
 }
