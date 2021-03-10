@@ -2,6 +2,7 @@ body {
   background-color: #003333;
 }
 .title {
+  background-color: none;
   color: #FFF;
   border: solid;
 }
