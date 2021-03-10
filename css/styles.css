@@ -11,5 +11,7 @@ header {
   border: solid;
 }
 .menu {
-  border: solid;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
