@@ -1,9 +1,12 @@
 .title {
   color: blue;
+  border: solid;
 }
 .profile {
   color: green;
+  border: solid;
 }
 .menu {
   color: red;
+  border: solid;
 }
