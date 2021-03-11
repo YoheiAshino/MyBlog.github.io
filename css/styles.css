@@ -14,12 +14,12 @@ header {
 .menu{
 	background-color: #222222;
 	color: white;
-	display: flex;
 	text-align: center;
 }
 .menu ul {
 	margin: 0;
 	padding: 6px;
+	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: center;
@@ -42,13 +42,17 @@ header {
 }
 
 .profile {
+	border: solid;
 }
 
 .category {
+	border: solid;
 }
 
 .new_article {
+	border: solid;
 }
 
 .twitter {
+	border: solid;
 }
