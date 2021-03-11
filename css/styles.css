@@ -8,9 +8,6 @@ header {
 	border: solid;
 	text-align: center;
 }
-.profile {
-	border: solid;
-}
 .menu{
 	background-color: #222222;
 	color: white;
@@ -32,4 +29,19 @@ header {
 .menu a{
 	color: white;
 	text-decoration: none;
+}
+.main {
+	border: solid;
+}
+.profile {
+	border: solid;
+}
+.category {
+	border: solid;
+}
+.new_article {
+	border: solid;
+}
+.twitter {
+	border: solid;
 }
