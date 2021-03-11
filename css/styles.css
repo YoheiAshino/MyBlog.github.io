@@ -2,22 +2,25 @@ body {
 	background-color: #FFF;
 	color: #000;
 }
+
 header {
 }
+
 .title {
 	border: solid;
 	text-align: center;
 }
+
 .menu{
 	background-color: #222222;
 	color: white;
-	text-align: center;
-}
-.menu ul {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: center;
+	text-align: center;
+}
+.menu ul {
 	margin: 0;
 	padding: 6px;
 	list-style-type: none;
@@ -30,18 +33,20 @@ header {
 	color: white;
 	text-decoration: none;
 }
+
 .main {
-	border: solid;
+	display:flex;
+	flex-diretion: row;
 }
+
 .profile {
-	border: solid;
 }
+
 .category {
-	border: solid;
 }
+
 .new_article {
-	border: solid;
 }
+
 .twitter {
-	border: solid;
 }
