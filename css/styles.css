@@ -13,6 +13,7 @@ header {
 .menu{
 	background-color: #222222;
 	color: white;
+	text-align: center;
 }
 .menu ul {
 	display: flex;
@@ -29,6 +30,5 @@ header {
 }
 .menu a{
 	color: white;
-	text-align: center;
 	text-decoration: none;
 }
