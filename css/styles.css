@@ -25,6 +25,7 @@ header {
 }
 .menu li{
 	padding: 6px;
+	flex: 1;
 }
 .menu a{
 	color: white;
