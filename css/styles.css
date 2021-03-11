@@ -35,8 +35,10 @@ header {
 }
 
 .main {
-	display:flex;
+	display: flex;
 	flex-diretion: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
 }
 
 .profile {
