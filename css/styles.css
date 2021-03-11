@@ -23,3 +23,6 @@ header {
 	padding: 6px;
 	list-style-type: none;
 }
+.menu a{
+	color: white;
+}
