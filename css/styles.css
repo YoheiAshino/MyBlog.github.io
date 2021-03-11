@@ -37,22 +37,26 @@ header {
 .main {
 	display: flex;
 	flex-diretion: row;
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
 	justify-content: space-between;
 }
 
+.left_column {
+	border: solid;
+}
 .profile {
-	border: solid;
 }
-
 .category {
-	border: solid;
 }
 
+.center_column {
+	border: solid;
+}
 .new_article {
-	border: solid;
 }
 
-.twitter {
+.right_column {
 	border: solid;
+}
+.twitter {
 }
