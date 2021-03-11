@@ -38,7 +38,7 @@ header {
 	display: flex;
 	flex-diretion: row;
 	flex-wrap: nowrap;
-	justify-content: space-between;
+	justify-content: center;
 }
 
 .left_column {
