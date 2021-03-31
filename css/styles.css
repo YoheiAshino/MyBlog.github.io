@@ -56,8 +56,17 @@ header {
 }
 .new_article {
 }
+
 .diary {
 }
+.diary-table {
+	width: 100%;
+}
+.diary-table th {
+	white-space: nowrap;
+        width: 100px;
+}
+
 .contact {
 }
 
